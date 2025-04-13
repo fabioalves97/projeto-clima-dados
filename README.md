@@ -72,7 +72,8 @@ python scripts/coleta_clima.py
 ---
 📌 Autor
 
-Fábio
+Fábio A. Oliveira
+
 Projeto desenvolvido para praticar os conhecimentos adquiridos na pós-graduação em Ciência de Dados, juntamente com estudos e pesquisas pessoais sobre o tema.
 
 
