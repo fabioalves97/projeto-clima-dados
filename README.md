@@ -56,7 +56,6 @@ python scripts/coleta_clima.py
 
 ## 📊 Dashboard
 
-![Dashboard Clima](dashboard_climatico.png)
 <p align="center">
   <img src="dashboard_climatico.png" width="700"/>
 </p>
